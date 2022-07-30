@@ -1,0 +1,43 @@
+*{ 
+    margin: 0px;
+}
+
+label{
+  color:white;
+}
+
+.container {
+    background-color: rgb(11, 92, 173);
+    width:50%;
+    margin: 0 auto;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 5px  5px 3px 3px;
+    border: 1px solid black;
+   position: relative;
+   top: 40px; 
+   margin-top: 5%;
+}
+.button {
+        font-size: 18px;
+        background-color: green !important;
+        padding-left: 19px;
+        padding-right: 19px;
+        border: 1px solid #cccccc;
+        border-radius: 5px;        
+          margin-left:  10px;
+          margin-top: 20px;
+        margin-bottom: 35px;
+        width: 120px;
+      }      
+
+
+
+.red{
+    color:red;
+}
+
+
+h2,p {
+  color:white;
+}
